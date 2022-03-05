@@ -1,18 +1,16 @@
 /* FONTS */
 
-@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Sansita+Swashed:wght@300&family=Shadows+Into+Light&family=Syne+Mono&display=swap")
-
-/* GLOBAL STYLES */
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Sansita+Swashed:wght@300&family=Shadows+Into+Light&family=Syne+Mono&display=swap');
 
 :root {
   --font-primary: 'Sansita+Swashed', sans-serif;
   --font-secondary: 'Indie+Flower', serif;
   --font-code: 'Shadows+Into+Light', monospace;
-  --bg-color: #f7a206;
-  --font-color: #f80a0a;
-  --btn-bg-color: #2ae718;
-  --accent-color: #2715ce;
-  --header-shadow: #000 0px 0px 5px;
+  --bg-color: #0e0d0d;
+  --font-color: #fafaf6;
+  --btn-bg-color: #ec0a15;
+  --accent-color: #c8fc0f;
+  --header-shadow: rgb(253, 246, 246) 0px 0px 5px;
 }
 
 * {
